@@ -20,13 +20,12 @@ The Student Affairs Website is a web application developed as our final project 
 
 ## Installation
 
-1. Install a virtual environment by running the following command:
+1. Clone the repository inside a new folder.
+
+2. Install a virtual environment by running the following command:
 ```
 python -m venv env
 ```
-
-2. Clone the repository inside the virtual environment directory.
-
 
 3. Activate the virtual environment:
 - On Windows:
